@@ -1,0 +1,32 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output
+/build/
+
+# Ignore logs
+/logs/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.class
+
+# Ignore sensitive or environment-specific information
+.env
+config.js
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore user-specific files
+Thumbs.db
+Desktop.ini
